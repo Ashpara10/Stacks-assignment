@@ -19,6 +19,7 @@ Sticky is a note taking Software as a service product that allows users to take 
 ## betterstacks.com
 
 Better Stack is a resource management SAAS product that allows teams and individuals to access and manage all their bookmarks and links in a collaborated and efficient manner
+It leverages the power of AI to give you personalised recommendations based on the things you search and bookmark
 
 **Key features:-**
 
